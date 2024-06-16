@@ -1,4 +1,5 @@
 *Introduction
+
 Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching for a smooth user experience.
 *Techstack
 -React_native & react_hook
