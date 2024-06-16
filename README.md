@@ -1,12 +1,12 @@
-*Introduction
+*Introduction<br />
 
-Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching for a smooth user experience.
-*Techstack
--React_native & react_hook
--Chakra-ui
--Firebase
--Javascript
-Feature
+Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching for a smooth user experience.<br />
+*Techstack<br />
+-React_native & react_hook<br />
+-Chakra-ui<br />
+-Firebase<br />
+-Javascript<br />
+Feature<br />
 👉 Authentication System: A robust authentication system ensuring security and user privacy
 
 👉 Explore Page: Homepage for users to explore posts, with a featured section for top creators
@@ -18,4 +18,4 @@ Feature
 
 👉 Create Post Page: Implement a user-friendly create post page with effortless file management, storage, and drag-drop feature
 
-Try the live example here: https://minigram-web.vercel.app/
+Try the live example here: https://minigram-web.vercel.app/<br />
