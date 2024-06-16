@@ -1,5 +1,5 @@
 import { Container, Flex, VStack, Box, Image } from "@chakra-ui/react";
-import AuthForm from "c:/Users/ACER/OneDrive/Desktop/minigram/src/components/AuthForm/AuthForms";
+import AuthForm from "../../components/AuthForm/AuthForms";
 
 const AuthPage = () => {
 	return (
